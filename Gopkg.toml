@@ -1,0 +1,19 @@
+[[override]]
+    name = "k8s.io/api"
+    version = "kubernetes-1.10.3"
+
+[[override]]
+    name = "k8s.io/client-go"
+    version = "kubernetes-1.10.3"
+
+[[override]]
+    name = "k8s.io/apimachinery"
+    version = "kubernetes-1.10.3"
+
+[[override]]
+    name = "github.com/spf13/cobra"
+    version = "0.0.3"
+
+[[override]]
+    name = "github.com/pkg/errors"
+    version = "0.8.0"
